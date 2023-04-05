@@ -1,0 +1,57 @@
+/*Organization based on specificity*/
+/**************************ID Selectors**************************/
+/*Only used once based on the ID name given to the element being styled*/
+
+#top-container {
+    background-color: #0096FF;
+    height: 200px;
+    width: 200px;
+    border: solid 10px;
+    padding: 20px;
+    
+
+}
+
+#middle-container {
+    background-color: #00D7FF;
+    height: 200px;
+    width: 200px;
+    border: solid 20px;
+    margin-left: 260px;
+
+}
+
+
+
+#bottom-container {
+    border: 100px;
+    background-color: #72FFFF;
+    height: 200px;
+    width: 200px;
+    border: solid 10px;
+    margin-left: 500px;
+    
+}
+
+
+
+
+
+
+/**************************Class Selectors***********************/
+/*Can be used as many times as many times as you'd like*/
+
+
+
+
+
+/**************************Element/Tag Selectors**************************/
+
+
+body {
+    margin: 0px;
+}
+
+h1 {
+    margin: 0px;
+}
