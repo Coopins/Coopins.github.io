@@ -1,2 +1,2 @@
-# Coopins.github.io-
+# Coopins.github.io
 My personal landing page/site
